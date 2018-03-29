@@ -1,0 +1,36 @@
+img{
+	height: 5em;
+	width: 5em;
+}
+
+.cont{
+	background-image: url("../assets/bg.jpg");
+
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 81vh;
+  	line-height: 75vh;
+  	text-align: center;
+}
+
+.cont h1{
+	font-size: 80px;
+}
+
+nav{
+	background-color: #ffb014;
+}
+
+span{
+	text-decoration-color: #ffb014;
+
+	display: inline-block;
+  	vertical-align: middle;
+  	line-height: normal;
+
+  	background-color: #146eff;
+  	width: 100vw;
+}
