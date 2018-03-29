@@ -22,17 +22,17 @@ img{
 }
 
 nav{
-	background-color: #ffb014;
+	background-color: #F57C00;
 }
 
 span{
-	text-decoration-color: #ffb014;
+	text-decoration-color:#FF6D00 ;
 
 	display: inline-block;
   	vertical-align: middle;
   	line-height: normal;
 
-  	background-color: #146eff;
+  	background-color: #0D47A1;
   	width: 100vw;
 }
 img{
