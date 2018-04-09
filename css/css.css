@@ -4,9 +4,9 @@ img{
 }
 
 .cont{
-	background-image: url("../assets/bg.jpg");
+	background-image: url("http://ak0.picdn.net/shutterstock/videos/18075190/thumb/1.jpg"); 
 
-	background-attachment: fixed;
+  	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,29 +35,3 @@ span{
   	width: 100vw;
 }
 
-.kontent1{
-   /* The image used */
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ea/North_Laguna_Beach_Photo_D_Ramey_Logan.jpg");
-
-    /* Set a specific height */
-    height: 81vh; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.kontent2{
-  /* The image used */
-    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1-twin-points-laguna-beach-seascaping-photography.jpg");
-    background-size: 90%;
-    /* Set a specific height */
-    height: 81vh; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
